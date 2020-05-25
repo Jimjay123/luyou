@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="280px" height="348px" viewBox="0 0 280 348" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>card/T.C端/add/Normal</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="280" height="348" rx="13"></rect>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="348" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="card/T.C端/add/Normal" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <use id="矩形备份-2" stroke-opacity="0.5" stroke="#666666" mask="url(#mask-2)" stroke-width="2" stroke-dasharray="8" xlink:href="#path-1"></use>
+        <g id="添加" transform="translate(93.500000, 93.000000)" stroke="#979797" stroke-linecap="round" stroke-opacity="0.3">
+            <ellipse id="椭圆形" stroke-width="5.20574163" cx="46.3235294" cy="45" rx="46.3235294" ry="45"></ellipse>
+            <path d="M29.676011,44.6484375 L62.9710478,44.6484375" id="路径-6" stroke-width="8"></path>
+            <path d="M29.753496,45.145346 L62.3879381,45.145346" id="路径-6" stroke-width="8" transform="translate(46.070717, 45.145346) rotate(90.000000) translate(-46.070717, -45.145346) "></path>
+        </g>
+        <text id="创建课程计划" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" letter-spacing="1.19999998" fill="#999999" fill-opacity="0.4">
+            <tspan x="64.4000001" y="243.25">创建课程计划</tspan>
+        </text>
+    </g>
+</svg>

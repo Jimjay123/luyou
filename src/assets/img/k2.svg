@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/40pd/courses/未开始</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40pd/courses/未开始" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="编组" transform="translate(12.627809, 14.422253)">
+            <rect id="矩形" stroke-opacity="0.7" stroke="#B3B3B3" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" x="-9.23705556e-14" y="-8.17124146e-14" width="14.7443813" height="11.1554943" rx="1"></rect>
+            <path d="M6.08180933,6.99087438 L6.08180933,4.14343736 C6.08180933,3.87834068 6.29671265,3.66343736 6.56180933,3.66343736 C6.65204397,3.66343736 6.74045127,3.68887235 6.81688992,3.73682465 L9.03570021,5.12875226 C9.2602662,5.26962939 9.32810944,5.56587957 9.18723231,5.79044556 C9.15053351,5.84894551 9.10164377,5.89883785 9.04390075,5.93671648 L6.82509047,7.39222589 C6.60343015,7.53763205 6.30586397,7.47581584 6.16045781,7.25415552 C6.10914576,7.1759343 6.08180933,7.08442376 6.08180933,6.99087438 Z" id="路径-8" fill-opacity="0.7" fill="#B3B3B3"></path>
+        </g>
+        <circle id="Oval-4" stroke="#E8E8E8" fill-rule="nonzero" cx="20" cy="20" r="15"></circle>
+    </g>
+</svg>

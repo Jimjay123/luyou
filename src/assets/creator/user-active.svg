@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/22px/个人中心</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/22px/个人中心" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/40px/讲师">
+            <path d="M13.3368947,13.3368947 C18.1213956,13.3368947 22,17.215499 22,22 L4.67378937,22 C4.67378937,17.215499 8.55239373,13.3368947 13.3368947,13.3368947 Z M13.3368947,3.26351641 C16.1185813,3.26351641 18.3735838,5.51851895 18.3735838,8.30020555 C18.3735838,11.0818921 16.1185813,13.3368947 13.3368947,13.3368947 C10.5552081,13.3368947 8.30020555,11.0818921 8.30020555,8.30020555 C8.30020555,5.51851895 10.5552081,3.26351641 13.3368947,3.26351641 Z" id="形状结合" fill-opacity="0.243853802" fill="#FE7865"></path>
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="-2.27373675e-13" y="0" width="22" height="22"></rect>
+            <circle id="椭圆形" stroke="#FE7865" stroke-width="2.3524007" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round" cx="11" cy="6.85723578" r="5.03668914"></circle>
+            <path d="M19.6631053,20.5570302 C19.6631053,15.7725293 15.784501,11.8939249 11,11.8939249 C6.21549905,11.8939249 2.33689468,15.7725293 2.33689468,20.5570302" id="路径" stroke-opacity="0.695968094" stroke="#FE7865" stroke-width="2" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

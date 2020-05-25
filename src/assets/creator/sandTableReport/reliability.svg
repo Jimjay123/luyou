@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="26px" viewBox="0 0 160 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>编组 13</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50.1501814%" x2="0%" y2="50.2639509%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D9E2F2" offset="4.23345381%"></stop>
+            <stop stop-color="#FE7865" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="55.0441837%" x2="99.7686611%" y2="55.0441837%" id="linearGradient-2">
+            <stop stop-color="#FE7865" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FE7865" offset="48.9408976%"></stop>
+            <stop stop-color="#FE7865" stop-opacity="0" offset="99.9419341%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="创作者" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-6-创建沙盘课程---学习-查看报告" transform="translate(-1094.000000, -242.000000)">
+            <g id="编组-11" transform="translate(1094.000000, 146.000000)">
+                <g id="编组-13" transform="translate(-0.000000, 97.000000)">
+                    <path d="M0.0171476436,8.01947639 C6.16286312,8.62445484 14.503477,11.6154474 25.0389892,16.9924541 C35.5745015,22.3694608 47.5858543,20.8739645 61.0730476,12.5059652 C82.9442955,1.13308961 104.765244,-1.80879192 126.535892,3.68032065 C138.921607,6.80317599 160.018282,1.04949569 160,3.62789161 C159.896231,17.8759639 159.876534,25 159.940909,25 L16.0161656,25 C7.17960963,25 0.0161656281,17.836556 0.0161656281,9 C0.0161656281,8.99461418 0.0161683475,8.98922836 0.0161737863,8.98384254 L0.0171476436,8.01947639 L0.0171476436,8.01947639 Z" id="Path-2-Copy" fill="url(#linearGradient-1)" opacity="0.118233817"></path>
+                    <path d="M-2.27373675e-13,6.96534526 C6.14342689,7.56565838 14.4809348,10.5335857 25.0125237,15.8691273 C35.5441127,21.2046689 47.5509926,19.7207052 61.0331634,11.4172363 C82.8962667,0.132063283 104.709089,-2.78713174 126.47163,2.65965119 C139.057016,5.80955285 149.858726,4.85891556 160,2.65965119" id="Path-2" stroke="url(#linearGradient-2)" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon/12px/对</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/12px/对" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="12" height="12"></rect>
+            <circle id="Oval-5" fill="#44D7B6" cx="6" cy="6" r="6"></circle>
+            <path d="M8.86136684,3.49060905 C9.08746722,3.24835864 9.46714054,3.23526646 9.70939095,3.46136684 C9.95164136,3.68746722 9.96473354,4.06714054 9.73863316,4.30939095 L5.53863316,8.80939095 C5.31926678,9.04442636 4.95362735,9.0647844 4.70952518,8.85555396 L2.60952518,7.05555396 C2.35792967,6.83990067 2.32879275,6.46112068 2.54444604,6.20952518 C2.76009933,5.95792967 3.13887932,5.92879275 3.39047482,6.14444604 L5.05379565,7.57014961 L8.86136684,3.49060905 Z" id="Path-92" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

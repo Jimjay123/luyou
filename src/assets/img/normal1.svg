@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/40px/search/normal 50%</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40px/search/normal-50%" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="icon/search">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+            <g id="search" transform="translate(10.000000, 10.000000)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.6">
+                <path d="M15.9326396,15.9333536 C17.6218505,14.2443243 18.6666667,11.9108437 18.6666667,9.33333333 C18.6666667,4.17867567 14.487991,0 9.33333333,0 C4.17867567,0 0,4.17867567 0,9.33333333 C0,14.487991 4.17867567,18.6666667 9.33333333,18.6666667 C10.1723831,18.6666667 10.9855736,18.5559496 11.759092,18.3483282" id="路径" stroke="#666666"></path>
+                <path d="M20,20 L15.9226145,15.9143558" id="Path" stroke-opacity="0.3" stroke="#000000"></path>
+            </g>
+            <path d="M18.4594902,14.9480708 C20.4911191,14.9480708 22.0539105,16.5108622 22.0539105,18.542491" id="形状" stroke-opacity="0.3" stroke="#000000" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" transform="translate(18.459490, 16.745281) rotate(-31.000000) translate(-18.459490, -16.745281) "></path>
+        </g>
+    </g>
+</svg>

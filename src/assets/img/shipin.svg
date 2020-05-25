@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="41px" viewBox="0 0 40 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>icon/搜索 40px </title>
+    <desc>Created with Sketch.</desc>
+    <g id="专业老师端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="专业老师端-首页-有群组-有课程计划" transform="translate(-432.000000, -98.000000)">
+            <g id="首页/卡片" transform="translate(426.000000, 95.000000)">
+                <g id="icon/40pd/courses/Red" transform="translate(6.000000, 3.500000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+                    <g id="编组" stroke-width="1" transform="translate(11.500000, 12.000000)">
+                        <rect id="矩形" stroke="#FE7865" stroke-width="2.3524007" stroke-linecap="round" stroke-linejoin="round" x="0" y="-1.13686838e-13" width="17" height="12.8697414"></rect>
+                        <path d="M3.4,13.0601733 L2.14662053,16.4601733" id="路径-17" stroke-opacity="0.5" stroke="#FE7865" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M14.8533795,13.0601733 L13.6,16.4601733" id="路径-17备份" stroke-opacity="0.5" stroke="#FE7865" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round" transform="translate(14.226690, 14.760173) scale(-1, 1) translate(-14.226690, -14.760173) "></path>
+                        <path d="M6.68400636,8.68122869 L6.68400636,4.1659895 C6.68400636,3.88432427 6.91234113,3.6559895 7.19400636,3.6559895 C7.28992715,3.6559895 7.38390354,3.68304037 7.46514531,3.73403618 L10.9814635,5.9412443 C11.2200248,6.09099021 11.2920238,6.40577534 11.1422779,6.64433657 C11.1033182,6.70640346 11.0514404,6.75934545 10.9901773,6.79955717 L7.47385905,9.10758825 C7.23838716,9.26214662 6.92220517,9.19655326 6.7676468,8.96108138 C6.71307901,8.87794658 6.68400636,8.78067234 6.68400636,8.68122869 Z" id="路径-8" fill-opacity="0.5" fill="#FE7865"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

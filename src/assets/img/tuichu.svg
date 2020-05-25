@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>icon/40pd/sign out</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40pd/sign-out" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="编组-2" transform="translate(10.500000, 10.500000)" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M2.71857313,2.8178354 C1.03889965,4.49750888 0,6.81795619 0,9.38105152 C0,14.5072422 4.1555986,18.6628408 9.28178925,18.6628408 L9.28178925,18.6628408 C14.4079799,18.6628408 18.5635785,14.5072422 18.5635785,9.38105152 C18.5635785,6.81795619 17.5246789,4.49750888 15.8450054,2.8178354" id="路径" stroke="#666666" stroke-width="2.3524007"></path>
+            <path d="M9.28178925,0.0992622658 L9.28178925,9.38105152" id="路径-16" stroke-opacity="0.3" stroke="#000000" stroke-width="2.6"></path>
+        </g>
+    </g>
+</svg>

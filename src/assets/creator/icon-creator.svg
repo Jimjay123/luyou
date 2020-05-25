@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/22px/我的创作</title>
+    <desc>Created with Sketch.</desc>
+    <g id="创作者端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="1-首页-normal" transform="translate(-45.000000, -286.000000)" fill="#FE7865" stroke="#FE7865" stroke-width="1.83333333">
+            <g id="我的课程/active" transform="translate(20.000000, 276.000000)">
+                <g id="icon/22px/我的创作" transform="translate(24.000000, 9.000000)">
+                    <rect id="Rectangle" opacity="0.399999976" x="2.81794396" y="2.81794396" width="5.45470403" height="5.45470403"></rect>
+                    <rect id="Rectangle备份" opacity="0.2" x="13.727352" y="2.81794396" width="5.45470403" height="5.45470403"></rect>
+                    <rect id="Rectangle" opacity="0.799999952" x="2.81794396" y="13.727352" width="5.45470403" height="5.45470403"></rect>
+                    <rect id="Rectangle" x="13.727352" y="13.727352" width="5.45470403" height="5.45470403"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

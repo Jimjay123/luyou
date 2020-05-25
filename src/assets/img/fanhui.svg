@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="23px" viewBox="0 0 22 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.2 (81672) - https://sketch.com -->
+    <title>返回</title>
+    <desc>Created with Sketch.</desc>
+    <g id="专业老师端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="专业老师端-首页-有群组-有课程计划" transform="translate(-1298.000000, -199.000000)">
+            <g id="返回" transform="translate(1309.000000, 210.500000) scale(-1, 1) translate(-1309.000000, -210.500000) translate(1298.000000, 199.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0.336204237" width="22" height="22"></rect>
+                <polyline id="路径" stroke="#666666" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.000000, 11.336204) scale(-1, 1) translate(-11.000000, -11.336204) " points="8.25 5.83620424 13.75 11.3362042 8.25 16.8362042"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

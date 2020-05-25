@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="432px" height="68px" viewBox="0 0 432 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>牌匾</title>
+    <desc>Created with Sketch.</desc>
+    <g id="创作者" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-1-创建沙盘课程---学生端学习" transform="translate(-504.000000, -60.000000)">
+            <g id="牌匾" transform="translate(504.000000, 60.000000)">
+                <rect id="矩形" fill="#FFC53D" x="0" y="24" width="432" height="44" rx="8"></rect>
+                <rect id="矩形" fill="#FEF7E6" x="0" y="24" width="432" height="40" rx="8"></rect>
+                <g id="编组" transform="translate(9.000000, 0.000000)" fill="#FFC53D">
+                    <circle id="椭圆形" style="mix-blend-mode: multiply;" cx="4" cy="31" r="4"></circle>
+                    <circle id="椭圆形" style="mix-blend-mode: multiply;" cx="4" cy="31" r="4"></circle>
+                    <path d="M2,0 L6,0 L6,31 C6,32.1045695 5.1045695,33 4,33 C2.8954305,33 2,32.1045695 2,31 L2,0 L2,0 Z" id="矩形"></path>
+                </g>
+                <g id="编组" transform="translate(415.000000, 0.000000)" fill="#FFC53D">
+                    <circle id="椭圆形" style="mix-blend-mode: multiply;" cx="4" cy="31" r="4"></circle>
+                    <circle id="椭圆形" style="mix-blend-mode: multiply;" cx="4" cy="31" r="4"></circle>
+                    <path d="M2,0 L6,0 L6,31 C6,32.1045695 5.1045695,33 4,33 C2.8954305,33 2,32.1045695 2,31 L2,0 L2,0 Z" id="矩形"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

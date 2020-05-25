@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/24px/新建课程频道-灰</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M7.920007,1.89117838 L10.4437496,1.89117838 C11.2152527,1.89117838 11.9112351,2.58716078 11.9112351,3.35866381 L11.9112351,5.88240645 L7.920007,1.89117838 Z" id="path-1"></path>
+        <filter x="-37.6%" y="-37.6%" width="175.2%" height="175.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0909637238 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/24px/新建课程频道-灰" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-14备份">
+            <polygon id="Shape" fill-opacity="0.01" fill="#FFFFFF" points="0 0 24 0 24 24 0 24"></polygon>
+            <g id="files-icon-music备份-3" transform="translate(6.000000, 5.000000)">
+                <path d="M5.98684211,0 L9.97807018,3.99122807 L9.97807018,10.5767544 C9.97807018,11.3482574 9.35264339,11.9736842 8.58114035,11.9736842 L1.39692982,11.9736842 C0.625426786,11.9736842 0,11.3482574 0,10.5767544 L0,1.39692982 C0,0.625426786 0.625426786,0 1.39692982,0 L5.98684211,0 Z" id="Combined-Shape" fill="#FE7865" fill-rule="nonzero" opacity="0.439999998"></path>
+                <path d="M7.920007,1.89117838 L11.9112351,5.88240645 L11.9112351,12.4679328 C11.9112351,13.2394358 11.2858083,13.8648626 10.5143052,13.8648626 L3.33009472,13.8648626 C2.55859168,13.8648626 1.93316489,13.2394358 1.93316489,12.4679328 L1.93316489,3.2881082 C1.93316489,2.51660516 2.55859168,1.89117838 3.33009472,1.89117838 L7.920007,1.89117838 Z" id="Combined-Shape" fill="#FE7865" fill-rule="nonzero"></path>
+                <g id="Path" transform="translate(9.915621, 3.886792) scale(-1, -1) translate(-9.915621, -3.886792) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.4" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="3.13053332" y="7.27933627" width="5.38815789" height="1.19736842" rx="0.598684211"></rect>
+                <rect id="Rectangle-Copy" fill="#FFFFFF" fill-rule="nonzero" x="3.13053332" y="9.67407312" width="2.99342105" height="1.19736842" rx="0.598684211"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

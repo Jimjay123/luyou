@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="292px" height="360px" viewBox="0 0 292 360" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>card/T.C端/add/hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="280" height="348" rx="13.0143541"></rect>
+        <filter x="-3.6%" y="-2.3%" width="107.1%" height="105.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="280" height="348" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="专业老师端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="规范-专业老师端--卡片状态" transform="translate(-552.000000, -1066.000000)">
+            <g id="card/T.C端/add/hover" transform="translate(558.000000, 1070.000000)">
+                <g id="矩形备份-2" stroke-dasharray="7.808612090862351">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use stroke-opacity="0.5" stroke="#000000" mask="url(#mask-3)" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="添加" stroke-width="1" fill-rule="evenodd" transform="translate(93.500000, 93.000000)" stroke="#979797" stroke-linecap="round" stroke-opacity="0.3">
+                    <ellipse id="椭圆形" stroke-width="5.20574163" cx="46.3235294" cy="45" rx="46.3235294" ry="45"></ellipse>
+                    <path d="M29.676011,44.6484375 L62.9710478,44.6484375" id="路径-6" stroke-width="8"></path>
+                    <path d="M29.753496,45.145346 L62.3879381,45.145346" id="路径-6" stroke-width="8" transform="translate(46.070717, 45.145346) rotate(90.000000) translate(-46.070717, -45.145346) "></path>
+                </g>
+                <text id="创建课程计划" font-family="PingFangSC-Medium, PingFang SC" font-size="28" font-weight="400" letter-spacing="1.39999998" fill="#999999" fill-opacity="0.4">
+                    <tspan x="51.8000001" y="245">创建课程计划</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="161px" height="193px" viewBox="0 0 161 193" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>图片/1</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0.5" y="0" width="161" height="193"></rect>
+        <linearGradient x1="50%" y1="61.1783115%" x2="48.6584153%" y2="44.2392869%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#A4BFD5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="35.7436156%" y2="37.8103739%" id="linearGradient-4">
+            <stop stop-color="#CDD6DE" offset="0%"></stop>
+            <stop stop-color="#9FACBA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="46.0540985%" y2="28.485173%" id="linearGradient-5">
+            <stop stop-color="#D8E2EA" offset="0%"></stop>
+            <stop stop-color="#B0C1D0" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="13.0708554%" x2="27.1714294%" y2="67.7413175%" id="linearGradient-6">
+            <stop stop-color="#C8D5E5" offset="0%"></stop>
+            <stop stop-color="#E9E9E9" stop-opacity="0.645663496" offset="100%"></stop>
+        </linearGradient>
+        <path d="M4.05,0 L8.62307692,0 L8.62307692,0 L8.62307692,4.559375 C8.62307692,6.79612824 6.80983016,8.609375 4.57307692,8.609375 L0,8.609375 L0,8.609375 L0,4.05 C-2.73923269e-16,1.81324676 1.81324676,-1.36547194e-15 4.05,0 Z" id="path-7"></path>
+        <linearGradient x1="33.5877426%" y1="71.4532304%" x2="45.0165827%" y2="31.3850892%" id="linearGradient-9">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#132E3C" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-10" points="29.5 107 88.0881684 120.553242 88.0881684 178.053242 29.5 162"></polygon>
+        <filter x="-0.9%" y="-0.7%" width="101.7%" height="102.8%" filterUnits="objectBoundingBox" id="filter-11">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.234730576   0 0 0 0 0.347048718   0 0 0 0 0.474516369  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="40.846046%" y1="71.4532304%" x2="47.2204937%" y2="31.3850892%" id="linearGradient-12">
+            <stop stop-color="#FFFFFF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#132E3C" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-13" points="88 105.5 132.678959 120.553242 132.678959 178.053242 88.5 160.5"></polygon>
+        <filter x="-1.1%" y="-0.7%" width="102.2%" height="102.8%" filterUnits="objectBoundingBox" id="filter-14">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.234730576   0 0 0 0 0.347048718   0 0 0 0 0.474516369  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="73.8557302%" y1="42.1198611%" x2="50%" y2="64.34326%" id="linearGradient-15">
+            <stop stop-color="#F1F6FA" offset="0%"></stop>
+            <stop stop-color="#DEEAF4" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="56.4902836%" y1="40.0233046%" x2="50%" y2="58.859551%" id="linearGradient-16">
+            <stop stop-color="#F1F6FA" offset="0%"></stop>
+            <stop stop-color="#DEEAF4" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-17" points="14.7391295 0 0 22.7452705 56.9681463 38 73.5 13.5536293"></polygon>
+    </defs>
+    <g id="图片/1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Box" transform="translate(-0.500000, 0.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="矩形" fill-opacity="0.01" fill="#FFFFFF" xlink:href="#path-1"></use>
+            <path d="M31,115.5 L132.482958,115.5 L132.482958,115.5 L132.482958,159.114209 C132.482958,159.51326 132.720207,159.874111 133.086569,160.032291 L193.574862,186.148606 C193.941224,186.306786 194.178472,186.667637 194.178472,187.066689 L194.178472,210.101762 L194.178472,210.101762 L126.688399,210.101762 L30.5596144,162.949477 C30.2170839,162.781462 30,162.433187 30,162.051669 L30,116.5 C30,115.947715 30.4477153,115.5 31,115.5 Z" id="Shadow" fill="url(#linearGradient-3)" mask="url(#mask-2)"></path>
+            <polygon id="side" fill="url(#linearGradient-4)" mask="url(#mask-2)" transform="translate(51.589480, 127.026621) scale(-1, 1) translate(-51.589480, -127.026621) " points="29.5 92 73.6789593 107.053242 73.6789593 162.053242 30 147"></polygon>
+            <polygon id="side" fill="url(#linearGradient-5)" mask="url(#mask-2)" points="73.5 92 132.088168 105.553242 132.088168 160.553242 73.5 147"></polygon>
+            <g id="fly" mask="url(#mask-2)">
+                <g transform="translate(73.500000, 38.500000)">
+                    <path d="M1.3368121,76.6488914 C-5.66110177,58.4970387 20.1534676,41.0268415 27.3757361,48.6755201 C32.4934346,54.0953728 25.9337336,61.9115449 16.8309558,61.0335008 C6.58507687,60.0451945 0.528868671,50.8823437 2.54909054,41.0268415 C6.55646555,21.4771603 37.3666522,20.5426214 38.6655661,19.641612" id="path" stroke="url(#linearGradient-6)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="3,7.5"></path>
+                    <g id="bee" stroke="none" stroke-width="1" fill-rule="evenodd" transform="translate(31.000000, 0.000000)">
+                        <path d="M8.18340117,15.2407104 C11.5116063,11.6384066 13.1757089,8.91965659 13.1757089,7.08446039 C13.1757089,4.33166609 10.9405766,2.10008539 8.18340117,2.10008539 C5.42622577,2.10008539 3.19109348,4.33166609 3.19109348,7.08446039 C3.19109348,8.91965659 4.85519604,11.6384066 8.18340117,15.2407104 Z" id="Oval" fill="#CED8E5" opacity="0.400000006" transform="translate(8.183401, 8.670398) rotate(-45.000000) translate(-8.183401, -8.670398) "></path>
+                        <path d="M20.8910935,27.4750854 C24.2192986,23.8727816 25.8834012,21.1540316 25.8834012,19.3188354 C25.8834012,16.5660411 23.6482689,14.3344604 20.8910935,14.3344604 C18.1339181,14.3344604 15.8987858,16.5660411 15.8987858,19.3188354 C15.8987858,21.1540316 17.5628884,23.8727816 20.8910935,27.4750854 Z" id="Oval-Copy" fill="#CED8E5" opacity="0.400000006" transform="translate(20.891093, 20.904773) scale(-1, -1) rotate(-45.000000) translate(-20.891093, -20.904773) "></path>
+                        <g id="Rectangle-4" transform="translate(10.438462, 10.015625)">
+                            <mask id="mask-8" fill="white">
+                                <use xlink:href="#path-7"></use>
+                            </mask>
+                            <use id="Mask" fill="#A8B7C5" xlink:href="#path-7"></use>
+                            <rect fill="#DDE5F2" mask="url(#mask-8)" transform="translate(2.496154, 5.437500) rotate(-45.000000) translate(-2.496154, -5.437500) " x="1.81538462" y="0.453125" width="1.36153846" height="9.96875"></rect>
+                            <polygon id="Rectangle-4-Copy" fill="#DDE5F2" mask="url(#mask-8)" points="1.21336887 0.128766177 2.17612195 -0.833986902 9.22509267 6.21498382 8.26233959 7.1777369"></polygon>
+                        </g>
+                        <path d="M23.6916226,7.85857609 L27.0038462,7.0703125" id="Path-7-Copy" stroke="#8696C5" stroke-width="0.5"></path>
+                        <path d="M22.3300841,6.49920109 L23.6044612,3.22060838" id="Path-7" stroke="#8696C5" stroke-width="0.5"></path>
+                        <ellipse id="Oval-4" fill="#8B9AA8" cx="20.4230769" cy="9.109375" rx="3.63076923" ry="3.625"></ellipse>
+                    </g>
+                </g>
+            </g>
+            <polygon id="side" fill="#DEEAF4" mask="url(#mask-2)" points="29.5 107 88.0881684 120.553242 88.0881684 178.053242 29.5 162"></polygon>
+            <g id="side" opacity="0.133718297" style="mix-blend-mode: multiply;" mask="url(#mask-2)">
+                <use fill="black" fill-opacity="1" filter="url(#filter-11)" xlink:href="#path-10"></use>
+                <use fill="url(#linearGradient-9)" fill-rule="evenodd" xlink:href="#path-10"></use>
+            </g>
+            <polygon id="side" fill="#D2DEE9" mask="url(#mask-2)" transform="translate(110.339480, 141.776621) scale(-1, 1) translate(-110.339480, -141.776621) " points="88 105.5 132.678959 120.553242 132.678959 178.053242 88.5 160.5"></polygon>
+            <g id="side" opacity="0.133718297" style="mix-blend-mode: multiply;" mask="url(#mask-2)" transform="translate(110.339480, 141.776621) scale(-1, 1) translate(-110.339480, -141.776621) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-14)" xlink:href="#path-13"></use>
+                <use fill="url(#linearGradient-12)" fill-rule="evenodd" xlink:href="#path-13"></use>
+            </g>
+            <polygon id="lid" fill="url(#linearGradient-15)" mask="url(#mask-2)" transform="translate(117.996663, 125.271191) scale(-1, 1) translate(-117.996663, -125.271191) " points="103.499967 105.459515 87.8799973 127.234908 133.094903 145.082868 148.113329 120.169627"></polygon>
+            <g id="lid" mask="url(#mask-2)">
+                <g transform="translate(15.000000, 106.500000)">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <use id="Mask" stroke="none" fill="url(#linearGradient-16)" fill-rule="evenodd" xlink:href="#path-17"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

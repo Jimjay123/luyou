@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon/40pd/讲师</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40pd/讲师" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="编组-3" transform="translate(10.951323, 9.594787)" stroke="#FE7865" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.3524007">
+            <g id="编组-2" transform="translate(0.000000, 0.820547)">
+                <g id="编组">
+                    <circle id="椭圆形" style="mix-blend-mode: multiply;" cx="8.66310532" cy="5.03668914" r="5.03668914"></circle>
+                    <path d="M17.3262106,18.7364836 C17.3262106,13.9519826 13.4476063,10.0733783 8.66310532,10.0733783 C3.87860436,10.0733783 0,13.9519826 0,18.7364836" id="路径" style="mix-blend-mode: multiply;"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

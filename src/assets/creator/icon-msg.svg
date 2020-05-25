@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/22px/消息-灰</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/22px/消息-灰" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="编组-7" transform="translate(2.253722, 0.620209)" stroke-width="2">
+            <g id="编组" transform="translate(0.317840, 0.338737)">
+                <path d="M2.10898349,16.8697413 L2.10898349,8.03633499 C2.10898349,4.62134608 4.877379,1.85295057 8.29236791,1.85295057 L8.29236791,1.85295057 C11.7073568,1.85295057 14.4757523,4.62134608 14.4757523,8.03633499 L14.4757523,16.8697413" id="路径" stroke="#999999" style="mix-blend-mode: multiply;"></path>
+                <path d="M8.29236791,1.85295057 L8.29236791,5.04041253e-14" id="路径-4" stroke-opacity="0.199054851" stroke="#000000"></path>
+                <path d="M10.3971929,16.8697413 L10.3971929,18.1391196 C10.3971929,19.1892556 9.45483065,20.040559 8.29236791,20.040559 C7.12990517,20.040559 6.18754293,19.1892556 6.18754293,18.1391196 L6.18754293,16.8697413" id="路径" stroke-opacity="0.199054851" stroke="#000000"></path>
+                <path d="M0.176675864,16.8697413 L16.40806,16.8697413" id="路径-3" stroke="#999999" style="mix-blend-mode: multiply;"></path>
+            </g>
+        </g>
+    </g>
+</svg>

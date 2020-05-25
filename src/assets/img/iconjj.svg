@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/40pd/red</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40pd/red" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="编组" transform="translate(11.500000, 7.225357)" stroke="#FE7865">
+            <rect id="Rectangle" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(8.500000, 12.774643) rotate(-270.000000) translate(-8.500000, -12.774643) " x="-1" y="4.87464307" width="19" height="15.8" rx="2.3"></rect>
+            <rect id="Rectangle-Copy-14" stroke-opacity="0.504534528" stroke-width="1.85715844" transform="translate(6.303425, 16.833134) rotate(-270.000000) translate(-6.303425, -16.833134) " x="6.30342506" y="15.2601044" width="1" height="3.1460596" rx="0.5"></rect>
+            <rect id="Rectangle-Copy-13" stroke-opacity="0.30078125" stroke-width="1.85715844" transform="translate(7.554230, 13.118817) rotate(-270.000000) translate(-7.554230, -13.118817) " x="7.55422957" y="10.294983" width="1" height="5.64766862" rx="0.5"></rect>
+            <rect id="Rectangle-Copy-15" stroke-opacity="0.30078125" stroke-width="1.85715844" transform="translate(6.067425, 9.404500) rotate(-270.000000) translate(-6.067425, -9.404500) " x="6.06742527" y="8.06747041" width="1" height="2.67406001" rx="0.5"></rect>
+            <path d="M4.98219085,1.41361039 L4.98219085,4.79909842" id="Path-9" stroke-opacity="0.5" stroke-width="2" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M12.0178092,1.41361039 L12.0178092,4.79909842" id="Path-9-Copy" stroke-opacity="0.5" stroke-width="2" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

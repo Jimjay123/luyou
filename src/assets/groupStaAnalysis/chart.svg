@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.2 (78181) - https://sketchapp.com -->
+    <title>icon/40pd/统计</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40pd/统计" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="编组" transform="translate(13.805565, 12.376818)" fill="#FE7865" fill-opacity="0.705665428" fill-rule="nonzero" opacity="0.439999998">
+            <path d="M2.64121976,9.23745798 C2.24559485,9.65945788 1.58277899,9.68083904 1.16077909,9.28521413 C0.738779184,8.88958922 0.717398027,8.22677335 1.11302293,7.80477345 L5.04067602,3.61527683 C5.42329194,3.20715318 6.05909566,3.17175996 6.48464518,3.53489556 L9.58459591,6.18018685 L13.6235453,1.06418429 C13.9819778,0.610169815 14.6405962,0.532685299 15.0946106,0.891117778 C15.5486251,1.24955026 15.6261096,1.90816864 15.2676771,2.36218312 L10.5544934,8.33221581 C10.1863566,8.79852246 9.50448826,8.86558813 9.05255677,8.47993992 L5.88524353,5.77716596 L2.64121976,9.23745798 Z" id="Path-97"></path>
+        </g>
+        <polyline id="路径-14" stroke="#FE7865" stroke-width="2.3524007" stroke-linecap="round" stroke-linejoin="round" points="12.3897214 12.3768178 12.3897214 26.4165406 27.601767 26.4165406"></polyline>
+        <circle id="椭圆形" stroke-opacity="0.5" stroke="#FE7865" fill="#FE7865" stroke-linecap="round" stroke-linejoin="round" cx="23.4560853" cy="19.8050574" r="1"></circle>
+        <circle id="椭圆形备份" stroke-opacity="0.5" stroke="#FE7865" fill="#FE7865" stroke-linecap="round" stroke-linejoin="round" cx="19.6092187" cy="16.9276278" r="1"></circle>
+        <circle id="椭圆形备份-2" stroke-opacity="0.5" stroke="#FE7865" fill="#FE7865" stroke-linecap="round" stroke-linejoin="round" cx="28.3541075" cy="13.8626025" r="1"></circle>
+    </g>
+</svg>

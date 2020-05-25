@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="224px" height="225px" viewBox="0 0 224 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>我的群组/课程计划/空-hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="224" height="225" rx="10.4114833"></rect>
+        <filter x="-4.5%" y="-3.6%" width="108.9%" height="108.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-3" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="224" height="225" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="我的群组/课程计划/空-hover" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="矩形备份-2" stroke-dasharray="7.808612090862351">
+            <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+            <use stroke-opacity="0.5" stroke="#000000" mask="url(#mask-3)" stroke-width="2" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+        </g>
+        <g id="添加" transform="translate(82.000000, 54.500000)" stroke="#979797" stroke-linecap="round" stroke-opacity="0.3">
+            <ellipse id="椭圆形" stroke-width="4.1645933" cx="29.8529412" cy="29" rx="29.8529412" ry="29"></ellipse>
+            <path d="M19.1245404,28.7734375 L40.5813419,28.7734375" id="路径-6" stroke-width="6.4"></path>
+            <path d="M19.1744752,29.0936674 L40.2055601,29.0936674" id="路径-6" stroke-width="6.4" transform="translate(29.690018, 29.093667) rotate(90.000000) translate(-29.690018, -29.093667) "></path>
+        </g>
+        <text id="添加新课" font-family="PingFangSC-Medium, PingFang SC" font-size="18" font-weight="400" letter-spacing="0.899999985" fill="#999999" fill-opacity="0.4">
+            <tspan x="74.2" y="167">添加新课</tspan>
+        </text>
+    </g>
+</svg>

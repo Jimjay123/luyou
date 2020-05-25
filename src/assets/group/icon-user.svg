@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 56.3 (81716) - https://sketch.com -->
+    <title>icon/搜索 40px </title>
+    <desc>Created with Sketch.</desc>
+    <g id="专业老师端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-我的群组-默认状态" transform="translate(-1142.000000, -76.000000)">
+            <g id="编组备份" transform="translate(1142.000000, 76.000000)">
+                <g id="icon/40pd/group/add">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="32" height="32"></rect>
+                    <g id="编组-4" stroke-width="1" transform="translate(8.400000, 9.200000)" stroke-linecap="round" stroke-linejoin="round">
+                        <g id="编组-2" stroke="#666666" stroke-width="1.88192056">
+                            <g id="编组">
+                                <circle id="椭圆形" cx="6.12729045" cy="3.56237817" r="3.56237817"></circle>
+                                <path d="M9.08734379,7.88589107 C8.20989612,7.40084439 7.20083519,7.12475634 6.12729045,7.12475634 C2.74328138,7.12475634 0,9.86803771 0,13.2520468" id="路径"></path>
+                            </g>
+                        </g>
+                        <g id="编组-3" transform="translate(9.532301, 7.200000)" stroke="#000000" stroke-opacity="0.3" stroke-width="2.08">
+                            <path d="M2.27373675e-13,3.47866322 L5.4708453,3.47866322" id="路径-26" transform="translate(2.735423, 3.478663) rotate(90.000000) translate(-2.735423, -3.478663) "></path>
+                            <path d="M0,3.47866322 L5.4708453,3.47866322" id="路径-26"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

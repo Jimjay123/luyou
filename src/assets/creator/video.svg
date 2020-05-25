@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>文件/视频</title>
+    <desc>Created with Sketch.</desc>
+    <g id="文件/视频" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill="#FFC53D" x="4.54747351e-13" y="6.83112016" width="28.0633981" height="24.4423144" rx="2.72719532"></rect>
+        <path d="M28.5867839,14.9262313 L33.7053006,23.9906046 C34.0756015,24.6463698 33.8441869,25.4781608 33.1884217,25.8484617 C32.9838395,25.9639862 32.7528789,26.0246913 32.5179326,26.0246913 L22.2808992,26.0246913 C21.527805,26.0246913 20.9173015,25.4141878 20.9173015,24.6610936 C20.9173015,24.4261473 20.9780066,24.1951867 21.0935311,23.9906046 L26.2120478,14.9262313 C26.5823487,14.270466 27.4141397,14.0390514 28.0699049,14.4093523 C28.2860278,14.5313937 28.4647426,14.7101084 28.5867839,14.9262313 Z" id="三角形" fill-opacity="0.6" fill="#FFC53D" style="mix-blend-mode: multiply;" transform="translate(27.399416, 19.424107) rotate(-90.000000) translate(-27.399416, -19.424107) "></path>
+    </g>
+</svg>

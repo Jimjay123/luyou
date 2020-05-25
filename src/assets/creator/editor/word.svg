@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>文件/word</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#90D5FF" offset="0%"></stop>
+            <stop stop-color="#40A8FF" offset="100%"></stop>
+        </linearGradient>
+        <path d="M20.4,0.00257313638 L29.0976311,1.13686838e-12 C31.6749599,1.13686838e-12 34,2.32504009 34,4.90236893 L34,13.3359065 L20.4,0.00257313638 Z" id="path-2"></path>
+        <filter x="-29.4%" y="-45.0%" width="158.8%" height="160.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0909637238 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="文件/word" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4">
+            <path d="M20.4,0 L34,13.3333333 L34,35.3333333 C34,37.9106622 31.8688754,40 29.24,40 L4.76,40 C2.13112459,40 0,37.9106622 0,35.3333333 L0,4.66666667 C0,2.08933783 2.13112459,0 4.76,0 L20.4,0 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <path d="M12.7333333,28 L12.7333333,29.6666667 L6.06666667,29.6666667 L6.06666667,28 L12.7333333,28 Z M19.4,24.6666667 L19.4,26.3333333 L6.06666667,26.3333333 L6.06666667,24.6666667 L19.4,24.6666667 Z M19.4,21.3333333 L19.4,23 L6.06666667,23 L6.06666667,21.3333333 L19.4,21.3333333 Z M19.4,18 L19.4,19.6666667 L6.06666667,19.6666667 L6.06666667,18 L19.4,18 Z" id="Combined-Shape" fill="#FFFFFF"></path>
+            <g id="Path" transform="translate(27.200000, 6.667953) scale(-1, -1) translate(-27.200000, -6.667953) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill-opacity="0.4" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+        </g>
+    </g>
+</svg>

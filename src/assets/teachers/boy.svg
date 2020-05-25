@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="104px" height="104px" viewBox="0 0 104 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57 (83077) - https://sketch.com -->
+    <title>User 07b备份 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="50" cy="50" r="50"></circle>
+        <filter x="-25.5%" y="-17.6%" width="151.1%" height="135.3%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0.145098039  0 0 0 0.04 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M36.6666667,53.5946007 C30.5555556,58.0390451 24.4444444,61.5946007 18.3333333,61.5946007 C12.2222222,61.5946007 6.11111111,58.0390451 -1.45519152e-11,53.5946007 C5.03721761,52.0615345 7.59223901,49.7730172 7.6650642,46.7290489 C7.66357275,46.1863924 7.6610402,45.4158522 7.65746655,43.9687385 C7.65689915,43.7389749 7.6563055,43.5035663 7.65568561,43.262828 C7.64565358,39.3826743 7.62931045,34.2640728 7.60646543,29.0626247 C2.82910926,22.8703952 4.5840214,15.6106464 6.0812392,15.7916959 C7.91810658,16.0138171 23.8191011,0.924615272 26.869126,0.152556423 C29.919151,-0.619502427 37.6666667,1.87497079 39,8.83333333 C40.3333333,15.7916959 40.8906562,33.3308863 35.8333333,40.3333333 C34.3941879,42.3259963 32.127812,43.1053881 29.0342058,42.6715087 C29.0300225,44.1277829 29.0212791,44.9450915 29,46.5946007 C29.0395136,49.7776811 31.5950692,52.0630969 36.6666667,53.5946007 Z" id="path-4"></path>
+        <path d="M6.33333333,1.66666667 L8,32.3333333 L0,32.3333333 L1.66666667,1.66666667 C2.7037037,0.555555556 3.48148148,0 4,0 C4.51851852,0 5.2962963,0.555555556 6.33333333,1.66666667 Z" id="path-6"></path>
+        <path d="M6.71324906,7.89728464 L1.47142234,4.86867365 L1.66666667,1.66666667 C2.7037037,0.555555556 3.48148148,0 4,0 C4.51851852,0 5.2962963,0.555555556 6.33333333,1.66666667 L6.71324906,7.89728464 L6.71324906,7.89728464 Z" id="path-8"></path>
+    </defs>
+    <g id="未认证端+认证流程" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="规范-Input-Status--表格" transform="translate(-714.000000, -98.000000)">
+            <g id="User-07b备份-2" transform="translate(716.000000, 100.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <circle stroke="#F2F2F2" stroke-width="2" cx="50" cy="50" r="51"></circle>
+                <g id="Group-10" mask="url(#mask-2)">
+                    <g transform="translate(23.000000, 11.000000)" id="Group-11">
+                        <g>
+                            <g transform="translate(23.500000, 34.000000) scale(-1, 1) translate(-23.500000, -34.000000) " id="Group-2">
+                                <g>
+                                    <g id="Group-14" filter="url(#filter-3)">
+                                        <g id="Path-48" transform="translate(1.666667, 5.333333)">
+                                            <mask id="mask-5" fill="white">
+                                                <use xlink:href="#path-4"></use>
+                                            </mask>
+                                            <use id="Combined-Shape" fill="#FFDDD9" xlink:href="#path-4"></use>
+                                            <path d="M29,42.6666667 C24.1111111,42.1111111 20.1111111,40.7777778 17,38.6666667 C20.5555556,43.1111111 24.5555556,45.7777778 29,46.6666667 L29,42.6666667 Z" fill="#FFDDD9" fill-rule="nonzero" style="mix-blend-mode: multiply;" mask="url(#mask-5)"></path>
+                                        </g>
+                                        <path d="M6.83333333,34.5 C4.53672637,28.9765012 -4.66666667,17.7278165 3.26625991,10.7278165 C5.93292658,-2.27218346 20.6666667,-0.833333333 30.5,2.16666667 C37.1089891,4.18296843 42.0995932,8.16666667 43.1666667,5.16666667 C49.8333333,10.7278165 46.4947867,16.1666667 42.0995932,17.7278165 C38.1108219,19.1446074 31.3656461,20.5611499 19.897752,19.2278165 C17.8491246,18.9896295 18.2781496,25.2638137 17.1833433,25.9422342 C15.5411339,26.9598649 14.2662599,20.5611499 9.7637189,22.4824065 C5.26117788,24.4036631 7.93292658,33.3123041 12.7662599,33.3123041 C14.4329266,33.3123041 15.2662599,37.8944832 10.7662599,40.0611499 C7.5,41.6666667 8.32559105,38.0889832 6.83333333,34.5 Z" id="Path-22" fill="#69C0FF" fill-rule="nonzero"></path>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-23" mask="url(#mask-2)">
+                    <g transform="translate(10.000000, 63.666667)">
+                        <path d="M75,16.4359442 C77.1156064,20.7374553 78.782273,27.8485664 80,37.7692775 L0,37.7692775 C1.21830926,27.8474548 2.88497592,20.7363437 5,16.4359442 C7.11502408,12.1355447 14.3482767,7.99098092 26.699758,4.00225297 C36.9375422,8.00161932 43.2025882,8.00080999 53.2902676,4 C65.6478161,7.98911827 72.8843936,12.134433 75,16.4359442 Z" id="Combined-Shape" fill="#69C0FF" fill-rule="nonzero"></path>
+                        <g id="Group-22" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(36.000000, 4.666667)">
+                            <mask id="mask-7" fill="white">
+                                <use xlink:href="#path-6"></use>
+                            </mask>
+                            <use id="Mask" fill="#0050B3" fill-rule="nonzero" opacity="0.522856213" xlink:href="#path-6"></use>
+                            <mask id="mask-9" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <use id="Combined-Shape" fill="#0050B3" fill-rule="nonzero" opacity="0.495768229" style="mix-blend-mode: multiply;" xlink:href="#path-8"></use>
+                        </g>
+                        <path d="M50.6666667,0 L53.6666667,4.33333333 L43.3333333,10.6666667 L39.9993333,4.664 L36.6666667,10.6666667 L26.3333333,4.33333333 L29.3333333,0 L40.0003333,3.94 L50.6666667,0 Z" id="Combined-Shape" fill="#FFFFFF" fill-rule="evenodd"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

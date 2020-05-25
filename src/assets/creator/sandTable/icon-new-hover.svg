@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="70px" viewBox="0 0 70 70" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59 (86127) - https://sketch.com -->
+    <title>编组 7</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="70" height="70"></rect>
+        <linearGradient x1="20.8985733%" y1="17.1606896%" x2="80.3892339%" y2="74.1420518%" id="linearGradient-3">
+            <stop stop-color="#FFB09E" offset="0%"></stop>
+            <stop stop-color="#FE7865" offset="100%"></stop>
+        </linearGradient>
+        <path d="M47,23.4457621 C47.0058569,28.2428184 45.5782325,32.7056056 43.1166084,36.4294819 C39.8677347,41.3379613 29.9331135,49.0496106 25.5797402,52.3102015 C24.3459906,53.2309079 22.6539913,53.2309079 21.4202418,52.3043371 C17.1608684,49.1082543 7.56699709,41.6605018 4.29462335,37.0335122 C1.58624939,33.2040772 0,28.536037 0,23.492677 C0,10.520686 10.522121,0 23.5,0 C36.495486,-0.00586190789 46.9764819,10.4561779 47,23.4457621 Z" id="path-4"></path>
+        <filter x="-28.7%" y="-14.2%" width="157.4%" height="150.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.996078431   0 0 0 0 0.470588235   0 0 0 0 0.396078431  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="创作者" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="规范" transform="translate(-552.000000, -970.000000)">
+            <g id="编组-7" transform="translate(552.000000, 970.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="蒙版" fill-opacity="0.01" fill="#FFFFFF" xlink:href="#path-1"></use>
+                <g id="Positioning" mask="url(#mask-2)" fill-rule="nonzero">
+                    <g transform="translate(12.000000, 3.000000)">
+                        <g id="appearance" fill="none">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                            <path stroke="#FFFFFF" stroke-width="3" d="M45.5000017,23.4480357 C45.4777417,11.2844375 35.6665361,1.49451216 23.5,1.5 C11.3510986,1.5 1.5,11.3485628 1.5,23.492677 C1.5,28.1016261 2.9163282,32.486986 5.5192936,36.1673813 C8.0339337,39.7229695 14.6549813,45.3525973 22.3210247,51.1049247 C23.0210903,51.6306881 23.9809902,51.6316501 24.6805239,51.1096141 C32.6073975,45.1725419 39.381361,39.3550981 41.8652918,35.6023139 C44.2294633,32.0258613 45.5052718,27.8350143 45.5000017,23.4480357 Z M45.5000017,23.4480357 C45.5000015,23.4478883 45.5000013,23.4477409 45.5000011,23.4475935 L45.5000025,23.4484779 C45.5000022,23.4483305 45.5000019,23.4481831 45.5000017,23.4480357 Z" stroke-linejoin="square" fill="url(#linearGradient-3)" fill-rule="evenodd"></path>
+                        </g>
+                        <path d="M10.0491636,13 C9.81584212,13 9.57668759,12.9243939 9.38419735,12.76155 C8.93505346,12.3951512 8.87089005,11.7379596 9.23837141,11.2901389 C12.0382294,7.88204834 15.3397286,6.18381893 15.4738885,6.11402868 C15.9930288,5.85231524 16.6229969,6.05587013 16.8854835,6.57348115 C17.1479702,7.08527632 16.9438139,7.71920442 16.4305066,7.98091786 C16.4013414,7.99836542 13.3681619,9.56864605 10.8599558,12.6219695 C10.6499665,12.8662354 10.3524816,13 10.0491636,13 L10.0491636,13 Z M7.85697286,16 C7.70441058,16 7.54708073,15.9408868 7.40882117,15.8226603 C7.00357761,15.481117 6.87962076,14.7520537 7.12753446,14.1937619 L7.40882117,13.5632206 C7.65673487,13.0049288 8.18593528,12.8341572 8.59117883,13.1757004 C8.99642239,13.5172436 9.12037924,14.246307 8.87246554,14.8045988 L8.59117883,15.4351401 C8.42908141,15.7963877 8.14302714,16 7.85697286,16 L7.85697286,16 Z" id="highlight" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

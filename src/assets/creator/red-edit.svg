@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编辑icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="创作者端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-规范" transform="translate(-777.000000, -218.000000)">
+            <g id="创作者card/hover" transform="translate(672.000000, 170.000000)">
+                <g id="编组">
+                    <g id="编辑icon" transform="translate(105.000000, 48.000000)">
+                        <rect id="矩形备份-3" fill="#FE7865" x="0" y="0" width="40" height="40" rx="8"></rect>
+                        <g id="编组-11" transform="translate(19.896447, 20.353553) rotate(-135.000000) translate(-19.896447, -20.353553) translate(14.896447, 7.853553)" fill="#FFFFFF" fill-rule="nonzero">
+                            <path d="M0.843728604,17.1805519 L0.843728604,5.31505504 C0.843728604,4.91819038 1.00100412,4.53749957 1.28111095,4.25635597 L3.78111095,1.74710267 C4.3658143,1.16023515 5.31556015,1.15848074 5.90242767,1.74318409 C5.90373628,1.74448787 5.90504248,1.74579407 5.90634626,1.74710267 L8.40634626,4.25635597 C8.68645309,4.53749957 8.8437286,4.91819038 8.8437286,5.31505504 L8.8437286,17.1805519 C8.8437286,18.0089791 8.17215573,18.6805519 7.3437286,18.6805519 L2.3437286,18.6805519 C1.51530148,18.6805519 0.843728604,18.0089791 0.843728604,17.1805519 Z" id="Path-11"></path>
+                            <rect id="矩形" x="1.13234677" y="20.76816" width="8" height="4" rx="1.5"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/22px/时间</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/22px/时间" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" transform="translate(0.000000, 0.000000)">
+            <circle id="椭圆形备份" fill-opacity="0.243853802" fill="#FE7865" cx="12.7930732" cy="12.7930732" r="9.20692678"></circle>
+            <circle id="椭圆形备份" stroke-opacity="0.6" stroke="#FC1F00" stroke-width="2" cx="11" cy="11" r="10"></circle>
+            <g id="编组" transform="translate(8.443706, 6.543181)" stroke="#FE7865" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                <path d="M1.88346535,5.66169465 L1.88346535,0" id="路径-9备份-2" style="mix-blend-mode: multiply;"></path>
+                <path d="M1.879625,5.70623541 L6.5033393,5.60433313" id="路径-9备份-3" style="mix-blend-mode: multiply;" transform="translate(3.902783, 5.858238) rotate(1.262540) translate(-3.902783, -5.858238) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

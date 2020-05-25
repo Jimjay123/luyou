@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="40px" viewBox="0 0 60 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>新建页面/视频</title>
+    <desc>Created with Sketch.</desc>
+    <g id="新建页面/视频" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="视频">
+            <rect id="矩形备份-7" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="60" height="40" rx="4"></rect>
+            <g id="编组-7" transform="translate(15.887202, 11.780435)">
+                <rect id="Combined-Shape" fill="#E1E1E1" x="-3.01980663e-13" y="0" width="19.6441883" height="17.6797694" rx="2"></rect>
+                <ellipse id="椭圆形" fill="#FFFFFF" cx="9.82209413" cy="8.83988472" rx="3.37875013" ry="3.29428137"></ellipse>
+                <path d="M30.2218281,2.37164616 L30.2218281,15.3081201 C30.2218281,15.8604048 29.7741129,16.3081201 29.2218281,16.3081201 C28.9609948,16.3081201 28.7104842,16.2062077 28.5237276,16.0241199 L21.8896384,9.55587661 C21.4942027,9.17032636 21.4861889,8.53721209 21.8717391,8.14177632 C21.87763,8.13573437 21.8835972,8.12976723 21.8896391,8.12387633 L28.5237283,1.65564568 C28.9191645,1.27009581 29.5522787,1.27811023 29.9378286,1.67354637 C30.119916,1.86030289 30.2218281,2.11081321 30.2218281,2.37164616 Z" id="Path-2" fill="#F0F0F0" opacity="0.775704983"></path>
+            </g>
+        </g>
+    </g>
+</svg>

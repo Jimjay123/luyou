@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="40px" viewBox="0 0 34 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>文件/PPT</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="13.875%" y1="0%" x2="86.125%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFA97A" offset="0%"></stop>
+            <stop stop-color="#FE8B64" offset="100%"></stop>
+        </linearGradient>
+        <path d="M20.4,0.00257313638 L29.0976311,1.21147536e-12 C31.6749599,1.21147536e-12 34,2.32504009 34,4.90236893 L34,13.3359065 L20.4,0.00257313638 Z" id="path-2"></path>
+        <filter x="-14.7%" y="-22.5%" width="129.4%" height="130.0%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.531565408   0 0 0 0 0.369893293  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="文件/PPT" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-4">
+            <path d="M20.4,0 L34,13.3333333 L34,35.3333333 C34,37.9106622 31.8688754,40 29.24,40 L4.76,40 C2.13112459,40 0,37.9106622 0,35.3333333 L0,4.66666667 C0,2.08933783 2.13112459,0 4.76,0 L20.4,0 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+            <g id="Path" transform="translate(27.200000, 6.667953) scale(-1, -1) translate(-27.200000, -6.667953) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill-opacity="0.4" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <path d="M12.5111111,15.72 L17.32,15.72 L17.32,15.72 C20.72,15.72 22.42,17.16 22.42,20.06 C22.42,22.98 20.7,24.44 17.28,24.44 L14.6911111,24.44 C14.0774614,24.44 13.58,24.9374614 13.58,25.5511111 L13.58,27.7988889 C13.58,28.4008793 13.0919904,28.8888889 12.49,28.8888889 C11.8880096,28.8888889 11.4,28.4008793 11.4,27.7988889 L11.4,16.8311111 C11.4,16.2174614 11.8974614,15.72 12.5111111,15.72 Z M13.58,18.6911111 L13.58,21.4688889 C13.58,22.0825386 14.0774614,22.58 14.6911111,22.58 L17.14,22.58 L17.14,22.58 C18.22,22.58 19,22.38 19.5,21.98 C19.98,21.58 20.24,20.94 20.24,20.06 C20.24,19.18 19.98,18.54 19.48,18.18 C18.98,17.78 18.2,17.58 17.14,17.58 L14.6911111,17.58 C14.0774614,17.58 13.58,18.0774614 13.58,18.6911111 Z" id="P" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

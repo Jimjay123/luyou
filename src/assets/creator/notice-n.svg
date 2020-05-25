@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>编组 8</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Header/创作" transform="translate(-25.000000, -6.000000)">
+            <g id="编组-8" transform="translate(25.000000, 6.000000)">
+                <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+                <g id="icon/24px/消息" transform="translate(12.000000, 12.000000)">
+                    <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" fill-rule="evenodd" x="0" y="0" width="24" height="24"></rect>
+                    <g id="编组-7" opacity="0.499325707" stroke-width="1" fill-rule="evenodd" transform="translate(3.134939, 1.322122)" stroke-linecap="round" stroke-linejoin="round">
+                        <path d="M2.06606712,18.0375098 L2.06606712,8.59263156 C2.06606712,4.94124799 5.02609836,1.98121676 8.67748192,1.98121676 L8.67748192,1.98121676 C12.3288655,1.98121676 15.2888967,4.94124799 15.2888967,8.59263156 L15.2888967,18.0375098" id="路径" stroke="#666666" stroke-width="2.6"></path>
+                        <path d="M8.67748192,1.98121676 L8.67748192,0" id="路径-4" stroke-opacity="0.3" stroke="#000000" stroke-width="2.6"></path>
+                        <path d="M0,18.0375098 L17.3549638,18.0375098" id="路径-3" stroke-opacity="0.3" stroke="#000000" stroke-width="2.6"></path>
+                    </g>
+                    <path d="M9.31387466,19.1990753 L9.31387466,20.3487532 C9.31387466,21.7286622 10.4325119,22.8472994 11.812421,22.8472994 C13.19233,22.8472994 14.3109672,21.7286622 14.3109672,20.3487532 L14.3109672,19.1990753" id="路径" stroke-opacity="0.15" stroke="#000000" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

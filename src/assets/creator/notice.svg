@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/搜索 40px </title>
+    <desc>Created with Sketch.</desc>
+    <g id="创作者端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="0-规范" transform="translate(-1313.000000, -2350.000000)">
+            <g id="icon/搜索-40px-" transform="translate(1313.000000, 2350.000000)">
+                <g id="编组-8">
+                    <rect id="矩形备份-4" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="48" height="48"></rect>
+                    <g id="编组-6" opacity="0.504929315" transform="translate(12.000000, 12.000000)">
+                        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+                        <g id="编组-7" transform="translate(3.938381, 1.807453)" stroke-linecap="round" stroke-linejoin="round">
+                            <path d="M1.80940621,17.2777146 L1.80940621,8.23068355 C1.80940621,4.73310746 4.64475184,1.89776183 8.14232793,1.89776183 L8.14232793,1.89776183 C11.639904,1.89776183 14.4752496,4.73310746 14.4752496,8.23068355 L14.4752496,17.2777146" id="路径" stroke="#666666" stroke-width="2.6"></path>
+                            <path d="M8.14232793,1.89776183 L8.14232793,0" id="路径-4" stroke-opacity="0.3" stroke="#000000" stroke-width="2.6"></path>
+                            <path d="M10.4040857,17.1517002 L10.4040857,18.5106305 C10.4040857,19.6348514 9.39146224,20.5462125 8.14232793,20.5462125 C6.89319361,20.5462125 5.88057017,19.6348514 5.88057017,18.5106305 L5.88057017,17.1517002" id="路径" stroke-opacity="0.3" stroke="#000000" stroke-width="2.3"></path>
+                            <path d="M0,17.2777146 L16.6239195,17.2777146" id="路径-3" stroke-opacity="0.3" stroke="#000000" stroke-width="2.6"></path>
+                        </g>
+                    </g>
+                    <g id="必填-点" transform="translate(32.000000, 10.000000)" fill="#FE7865">
+                        <circle id="椭圆形" cx="3" cy="3" r="3"></circle>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/24px/编辑_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/24px/编辑_fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="编组-2" fill="#FFFFFF" fill-opacity="0.01">
+            <rect id="矩形" x="0" y="0" width="24" height="24" rx="4"></rect>
+        </g>
+        <g id="编组-11" transform="translate(11.937868, 12.212132) rotate(-135.000000) translate(-11.937868, -12.212132) translate(8.937868, 4.712132)" fill="#808080" fill-rule="nonzero">
+            <path d="M0.506237162,10.3083312 L0.506237162,3.18903303 C0.506237162,2.95091423 0.600602472,2.72249974 0.76866657,2.55381358 L2.26866657,1.0482616 C2.61948858,0.696141089 3.18933609,0.695088443 3.5414566,1.04591045 C3.54224177,1.04669272 3.54302549,1.04747644 3.54380775,1.0482616 L5.04380775,2.55381358 C5.21187185,2.72249974 5.30623716,2.95091423 5.30623716,3.18903303 L5.30623716,10.3083312 C5.30623716,10.8053874 4.90329344,11.2083312 4.40623716,11.2083312 L1.40623716,11.2083312 C0.909180887,11.2083312 0.506237162,10.8053874 0.506237162,10.3083312 Z" id="Path-11"></path>
+            <rect id="矩形" opacity="0.5" x="0.679408061" y="12.460896" width="4.8" height="2.4" rx="0.9"></rect>
+        </g>
+    </g>
+</svg>

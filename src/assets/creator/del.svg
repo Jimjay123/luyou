@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/24px/删除_fill</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/24px/删除_fill" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Shape" fill-opacity="0.01" fill="#FFFFFF" points="0 0 24 0 24 24 0 24"></polygon>
+        <path d="M16.4461944,11.6071953 L16.4461944,16.4930591 C16.4461944,17.3143796 15.8764082,17.9801914 15.1721319,17.9801914 L8.8278681,17.9801914 C8.12422281,17.9801914 7.55380559,17.3151161 7.55380559,16.4930591 L7.55380559,11.6071953" id="Rectangle-21" stroke="#999999" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M6.81277319,9.55453435 L17.1872268,9.55453435" id="Line" stroke="#999999" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M10.5179352,11.7059997 L10.5179352,15.4111617" id="Line" stroke="#999999" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M13.4820648,11.7059997 L13.4820648,15.4111617" id="Line-Copy-2" stroke="#999999" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+        <path d="M9.0358704,7.50187337 L9.0358704,7.50187337 L9.0358704,7.50187337 C9.0358704,6.68335158 9.43404547,6.01980857 9.9233907,6.01980857 L14.0766093,6.01980857 C14.5667732,6.01980857 14.9641296,6.677645 14.9641296,7.50187337 L14.9641296,7.50187337" id="Rectangle-22" stroke="#999999" stroke-width="1.5" stroke-linecap="round" fill-rule="nonzero"></path>
+    </g>
+</svg>

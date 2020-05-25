@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/22px/结构</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="10.5475013%" y1="42.1114207%" x2="100%" y2="59.363543%" id="linearGradient-1">
+            <stop stop-color="#FFA890" offset="0%"></stop>
+            <stop stop-color="#F9395E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="icon/22px/结构" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="22" height="22"></rect>
+        <g id="编组" transform="translate(2.000000, 1.000000)" stroke="#FE7865" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+            <path d="M1.90596845,16.3630687 L-0.404845067,16.3630687" id="路径" fill="url(#linearGradient-1)" transform="translate(0.750562, 16.363069) rotate(-270.000000) translate(-0.750562, -16.363069) "></path>
+            <path d="M16.5639363,15.893164 L3.83779894,15.893164 C2.51135721,15.893164 1.43606373,14.8178705 1.43606373,13.4914287 L1.43606373,1.79602253 C1.43606373,0.469580808 2.51135721,-0.60571267 3.83779894,-0.60571267 L16.5639363,-0.60571267" id="形状" style="mix-blend-mode: multiply;" transform="translate(9.000000, 7.643726) rotate(-270.000000) translate(-9.000000, -7.643726) "></path>
+            <path d="M6.64372564,9.31449796 L6.64372564,23.4571002 C6.64372564,24.7584346 7.69866561,25.8133746 9,25.8133746 C10.3013344,25.8133746 11.3562744,24.7584346 11.3562744,23.4571002 L11.3562744,9.31449796 L11.3562744,9.31449796" id="路径" style="mix-blend-mode: multiply;" transform="translate(9.000000, 17.563936) rotate(-270.000000) translate(-9.000000, -17.563936) "></path>
+            <path d="M12.9685211,5.42258019 L7.9557673,5.42258019" id="Path-9-Copy" stroke-opacity="0.695968094" style="mix-blend-mode: multiply;"></path>
+            <path d="M12.9164186,9.12397754 L8.00786973,9.12397754" id="Path-9-Copy" stroke-opacity="0.695968094" style="mix-blend-mode: multiply;"></path>
+        </g>
+    </g>
+</svg>

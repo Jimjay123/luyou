@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/40pd/书</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40pd/书" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <path d="M29.5,14.4 L29.5,25.6 C29.5,26.8702549 28.4702549,27.9 27.2,27.9 L12.8,27.9 C11.5297451,27.9 10.5,26.8702549 10.5,25.6 L10.5,14.4 C10.5,13.1297451 11.5297451,12.1 12.8,12.1 L24.9870703,12.1" id="路径" stroke="#FE7865" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.000000, 20.000000) rotate(-270.000000) translate(-20.000000, -20.000000) "></path>
+        <path d="M17.7435352,19.3435352 L17.7435352,32.8870703 C17.7435352,34.1332815 18.7537889,35.1435352 20,35.1435352 C21.2462111,35.1435352 22.2564648,34.1332815 22.2564648,32.8870703 L22.2564648,19.3435352 L22.2564648,19.3435352" id="路径" stroke="#FE7865" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(20.000000, 27.243535) rotate(-270.000000) translate(-20.000000, -27.243535) "></path>
+        <path d="M23.8004183,14.2374895 L19,14.2374895" id="Path-9-Copy" stroke-opacity="0.5" stroke="#FE7865" stroke-width="2" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M23.7505229,17.7820992 L19.0498954,17.7820992" id="Path-9-Copy" stroke-opacity="0.5" stroke="#FE7865" stroke-width="2" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

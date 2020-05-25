@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/24px/导入课程-灰</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M6.5,0 L9.24006343,0 C10.0776953,0 10.8333333,0.755638031 10.8333333,1.5932699 L10.8333333,4.33333333 L6.5,0 Z" id="path-1"></path>
+        <filter x="-34.6%" y="-34.6%" width="169.2%" height="169.2%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0909637238 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="icon/24px/导入课程-灰" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="bound" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="24" height="24"></rect>
+        <g id="编组-12" transform="translate(6.500000, 5.500000)">
+            <g id="files-icon-music备份-2">
+                <path d="M6.5,0 L10.8333333,4.33333333 L10.8333333,11.4833333 C10.8333333,12.3209652 10.1542985,13 9.31666667,13 L1.51666667,13 C0.679034796,13 0,12.3209652 0,11.4833333 L0,1.51666667 C0,0.679034796 0.679034796,0 1.51666667,0 L6.5,0 Z" id="Combined-Shape" fill="#68C1FE" fill-rule="nonzero"></path>
+                <g id="Path" transform="translate(8.666667, 2.166667) scale(-1, -1) translate(-8.666667, -2.166667) ">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill-opacity="0.4" fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+            </g>
+            <path d="M7.07687961,6.38994679 L5.80517184,6.38994679 L5.80517184,6.38994679 L5.80517184,5.08496044 C5.80517184,4.9054679 5.65966438,4.75996044 5.48017184,4.75996044 L4.81502769,4.75996044 C4.63553514,4.75996044 4.49002769,4.9054679 4.49002769,5.08496044 L4.49002769,6.38994679 L4.49002769,6.38994679 L3.21831991,6.38994679 C3.03882737,6.38994679 2.89331991,6.53545425 2.89331991,6.71494679 C2.89331991,6.79184935 2.92058986,6.86626045 2.97028198,6.92495199 L4.89956183,9.20363171 C5.0155445,9.34061928 5.22061739,9.35764712 5.35760496,9.24166445 C5.37131161,9.2300595 5.38403275,9.21733837 5.3956377,9.20363171 L7.32491755,6.92495199 C7.44090022,6.78796442 7.42387238,6.58289152 7.28688481,6.46690886 C7.22819327,6.41721674 7.15378217,6.38994679 7.07687961,6.38994679 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>

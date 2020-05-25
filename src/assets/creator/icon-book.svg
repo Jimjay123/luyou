@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icon/22px/书</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/22px/书" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon/40px/书">
+            <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="22" height="22"></rect>
+            <path d="M19.719343,18.0485707 L4.68239218,18.0485707 C3.35595045,18.0485707 2.28065698,16.9732772 2.28065698,15.6468355 L2.28065698,3.95142929 C2.28065698,2.62498756 3.35595045,1.54969409 4.68239218,1.54969409 L17.4085295,1.54969409" id="路径" stroke="#999999" stroke-width="2" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.000000, 9.799132) rotate(-270.000000) translate(-11.000000, -9.799132) "></path>
+            <path d="M8.64372564,10.314498 L8.64372564,24.4571002 C8.64372564,25.7584346 9.69866561,26.8133746 11,26.8133746 C12.3013344,26.8133746 13.3562744,25.7584346 13.3562744,24.4571002 L13.3562744,10.314498 L13.3562744,10.314498" id="路径" stroke="#999999" stroke-width="2" style="mix-blend-mode: multiply;" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.000000, 18.563936) rotate(-270.000000) translate(-11.000000, -18.563936) "></path>
+            <path d="M14.9685211,6.42258019 L9.9557673,6.42258019" id="Path-9-Copy" stroke-opacity="0.199054851" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            <path d="M14.9164186,10.1239775 L10.0078697,10.1239775" id="Path-9-Copy" stroke-opacity="0.199054851" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>

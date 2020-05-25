@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>icon/40pd/group/Default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icon/40pd/group/Default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="矩形" fill-opacity="0.01" fill="#FFFFFF" x="0" y="0" width="40" height="40"></rect>
+        <g id="编组-2" transform="translate(9.263158, 11.500000)" stroke-linecap="round" stroke-linejoin="round">
+            <g id="编组" stroke="#666666" stroke-width="2.3524007">
+                <circle id="椭圆形" cx="7.65911306" cy="4.45297271" r="4.45297271"></circle>
+                <path d="M15.3182261,16.5650585 C15.3182261,12.3350471 11.8891244,8.90594542 7.65911306,8.90594542 C3.42910172,8.90594542 0,12.3350471 0,16.5650585" id="路径"></path>
+            </g>
+            <g id="编组备份" transform="translate(14.661800, 1.690058)" stroke="#000000" stroke-opacity="0.3" stroke-width="2.6">
+                <path d="M0.177083333,7.21588643 C2.02156502,7.21588643 3.51681287,5.72063859 3.51681287,3.8761569 C3.51681287,2.03167521 2.02156502,0.53642737 0.177083333,0.53642737" id="路径"></path>
+                <path d="M5.92141813,12.9602212 C5.92141813,9.78771272 3.34959184,7.21588643 0.177083333,7.21588643" id="路径"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="155px" height="30px" viewBox="0 0 155 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>编组 22</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50.2093749%" x2="0%" y2="50.3679864%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#D9E2F2" offset="4.23345381%"></stop>
+            <stop stop-color="#FE7865" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0%" y1="55.0441837%" x2="99.7686611%" y2="55.0441837%" id="linearGradient-2">
+            <stop stop-color="#FE7865" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#FE7865" offset="48.9408976%"></stop>
+            <stop stop-color="#FE7865" stop-opacity="0" offset="99.9419341%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="学生端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="6-我的课程-查看报告-标准课" transform="translate(-1165.000000, -488.000000)">
+            <g id="编组-22" transform="translate(1165.000000, 489.524700)">
+                <path d="M0.0165213666,9.15797788 C5.93777916,9.84621127 13.9737719,13.2488134 24.1244995,19.3657843 C34.2752272,25.4827551 45.8478938,23.7814541 58.8424994,14.2618811 C79.9149518,1.3239115 100.938941,-2.0228211 121.914469,4.22168325 C133.847825,7.77429462 154.173993,1.22881369 154.156379,4.16203911 C154.0564,20.3708795 154.037423,28.4752996 154.099447,28.4752996 L16,28.4752996 C7.163444,28.488978 -2.73395434e-14,21.325534 -2.84217094e-14,12.488978 C-2.8422268e-14,12.4844166 1.95059289e-06,12.4798552 0.0136841832,12.4753055 L0.0165213666,9.15797788 L0.0165213666,9.15797788 Z" id="Path-2-Copy" fill="url(#linearGradient-1)" opacity="0.118233817"></path>
+                <path d="M0,7.92241444 C5.91329451,8.60521323 13.9384799,11.9809469 24.0755562,18.0496154 C34.2126325,24.1182839 45.7697354,22.4304171 58.746865,12.9860149 C79.7909778,0.150209362 100.786693,-3.17009595 121.734011,3.025099 C133.847949,6.60781105 144.245027,5.526552 154.00641,3.025099" id="Path-2" stroke="url(#linearGradient-2)" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

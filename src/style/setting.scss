@@ -1,0 +1,40 @@
+$headerHeight: 60px;
+$headerColor: #ccc;
+$contentWidth: 1280px;
+$rootFontSize:16px;
+
+@mixin setPadding {
+    padding-left: calc((100vw - #{$contentWidth}) /2);
+    padding-right: calc((100vw - #{$contentWidth}) /2);
+}
+
+@mixin setMargin {
+    margin-left: calc((100vw - #{$contentWidth}) /2);
+    margin-right: calc((100vw - #{$contentWidth}) /2);
+}
+
+@mixin relative {
+    position: relative;
+}
+
+@mixin absolute($top:auto, $left:auto, $bottom:auto, $right:auto) {
+    position: absolute;
+    top: $top;
+    left: $left;
+    bottom: $bottom;
+    right: $right;
+}
+
+@mixin border($wid,$color, $radius){
+    border: solid $wid $color;
+    border-radius: $radius;
+    overflow: hidden;
+}
+
+@mixin flex($fl, $dir:column,$just:center,$ali:center){
+    display: flex;
+    flex: $fl;
+    flex-direction: $dir;
+    justify-content: $just;
+    align-items: $ali;
+}

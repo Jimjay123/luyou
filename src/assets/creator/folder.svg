@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="35px" viewBox="0 0 38 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Rectangle</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M35,4.41666667 L16,4.41666667 C15.7290985,4.41607534 15.4700055,4.29415186 15.282,4.07879167 L12.6,1.013625 C12.032774,0.366071107 11.2518953,3.55271368e-15 10.436,3.55271368e-15 L3.572,3.55271368e-15 C1.60093224,0.00243137803 0.00330593273,1.76548939 0,3.941875 L0,29.183125 C0.00330593273,31.3595106 1.60093224,33.1225686 3.572,33.125 L34.428,33.125 C36.3990678,33.1225686 37.9966941,31.3595106 38,29.183125 L38,7.72916667 C38,5.89972343 36.6568542,4.41666667 35,4.41666667 Z" id="path-1"></path>
+    </defs>
+    <g id="创作者端" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-首页-normal" transform="translate(-302.000000, -96.000000)">
+            <g id="📁-全部创作" transform="translate(288.000000, 87.000000)">
+                <g id="Rectangle" transform="translate(14.000000, 9.937500)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Mask" fill="#FFD245" fill-rule="nonzero" xlink:href="#path-1"></use>
+                    <rect fill-opacity="0.3" fill="#FFFFFF" mask="url(#mask-2)" x="0" y="0" width="38" height="8.83333333"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
